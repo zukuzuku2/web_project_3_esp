@@ -7,3 +7,10 @@
   flex-direction: column;
   justify-content: center;
 }
+@media screen and (min-width: 768px) {
+  .button {
+    grid-area: boton;
+    width: 355px;
+    height: 48px;
+  }
+}

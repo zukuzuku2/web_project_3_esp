@@ -7,3 +7,11 @@
   align-self: flex-start;
   padding-bottom: 30px;
 }
+@media screen and (min-width: 768px) {
+  .place__title {
+    font-size: 42px;
+    line-height: 46px;
+    grid-area: title;
+    max-width: 340px;
+  }
+}

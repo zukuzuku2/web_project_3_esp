@@ -3,3 +3,10 @@
   flex-direction: column;
   justify-content: space-between;
 }
+@media screen and (min-width: 768px) {
+  .place__paragraphs {
+    grid-area: paragraphs;
+    align-self: flex-start;
+    max-height: 340px;
+  }
+}

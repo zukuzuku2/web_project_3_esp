@@ -4,3 +4,8 @@
   flex-direction: column;
   padding-top: 30px;
 }
+@media screen and (min-width: 768px) {
+  .places {
+    width: 720px;
+  }
+}

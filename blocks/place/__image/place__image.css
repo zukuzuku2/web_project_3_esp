@@ -2,3 +2,11 @@
   width: 320px;
   height: 320px;
 }
+@media screen and (min-width: 768px) {
+  .place__image {
+    width: 340px;
+    height: 340px;
+    grid-area: image;
+    align-self: flex-start;
+  }
+}
