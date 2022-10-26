@@ -1,7 +1,6 @@
-.intro {
+.places {
   width: 288px;
   display: flex;
   flex-direction: column;
-  padding-top: 44px;
-  padding-bottom: 38px;
+  padding-top: 30px;
 }
