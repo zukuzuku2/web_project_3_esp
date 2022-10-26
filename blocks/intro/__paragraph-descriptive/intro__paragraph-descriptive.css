@@ -1,0 +1,12 @@
+.intro__paragraph-descriptive {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  color: #ffffff;
+}
+@media screen and (min-width: 768px) {
+  .intro__paragraph-descriptive {
+    padding-top: 32px;
+  }
+}

@@ -1,12 +1,16 @@
-.intro__author-text {
+.intro__paragraph {
   font-style: normal;
   font-weight: 400;
   font-size: 24px;
   line-height: 30px;
   color: #ffffff;
 }
+.intro__paragraph:nth-last-child(2) {
+  text-align: right;
+}
+
 @media screen and (min-width: 768px) {
-  .intro__author-text {
+  .intro__paragraph {
     line-height: 34px;
   }
 }

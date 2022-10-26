@@ -13,3 +13,8 @@
     padding-bottom: 15px;
   }
 }
+@media screen and (min-width: 1280px) {
+  .intro__title {
+    padding-bottom: 40px;
+  }
+}
