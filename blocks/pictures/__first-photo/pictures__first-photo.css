@@ -1,0 +1,4 @@
+.pictures__first-photo {
+  background-image: url("../../../images/item1.svg");
+  background-size: cover;
+}

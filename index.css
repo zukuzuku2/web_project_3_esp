@@ -13,6 +13,17 @@
 @import url(./blocks/intro/__author-text/intro__author-text.css);
 @import url(./blocks/intro/__description/intro__description.css);
 @import url(./blocks/intro/__title/intro__title.css);
+@import url(./blocks/pictures/pictures.css);
+@import url(./blocks/pictures/__item/pictures__item.css);
+@import url(./blocks/pictures/__container/pictures__container.css);
+@import url(./blocks/pictures/__eighth-photo/pictures__eighth-photo.css);
+@import url(./blocks/pictures/__fifth-photo/pictures__fifth-photo.css);
+@import url(./blocks/pictures/__first-photo/pictures__first-photo.css);
+@import url(./blocks/pictures/__fourth-photo/pictures__fourth-photo.css);
+@import url(./blocks/pictures/__second-photo/pictures__second-photo.css);
+@import url(./blocks/pictures/__seventh-photo/pictures__seventh-photo.css);
+@import url(./blocks/pictures/__sixth-photo/pictures__sixth-photo.css);
+@import url(./blocks/pictures/__thirth-photo/pictures__thirth-photo.css);
 
 * {
   margin: 0;
