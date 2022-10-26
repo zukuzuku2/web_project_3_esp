@@ -1,0 +1,13 @@
+.cover {
+  padding-top: 64px;
+}
+
+.cover .button {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 198px;
+  height: 48px;
+  background: #0278fe;
+  border-radius: 4px;
+}

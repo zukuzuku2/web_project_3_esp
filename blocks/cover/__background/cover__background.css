@@ -1,0 +1,7 @@
+.cover__background {
+  width: 320px;
+  height: 254px;
+  background-image: url(../../../images/__overlay.svg);
+  background-size: cover;
+  background-position: center;
+}

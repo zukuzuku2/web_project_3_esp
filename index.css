@@ -35,6 +35,12 @@
 @import url(./blocks/place/__website/place__website.css);
 @import url(./blocks/button/__paragraph/button__paragraph.css);
 @import url(./blocks/button/button.css);
+@import url(./blocks/cover/cover.css);
+@import url(./blocks/cover/__background/cover__background.css);
+@import url(./blocks/cover/__buy-items/cover__buy-items.css);
+@import url(./blocks/cover/__overlay/cover__overlay.css);
+@import url(./blocks/cover/__subtitle/cover__subtitle.css);
+@import url(./blocks/cover/__title/cover__title.css);
 
 * {
   margin: 0;
