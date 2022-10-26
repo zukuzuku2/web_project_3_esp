@@ -8,3 +8,9 @@
     height: 264px;
   }
 }
+@media screen and (min-width: 1280px) {
+  .pictures__item {
+    width: 284px;
+    height: 213px;
+  }
+}
