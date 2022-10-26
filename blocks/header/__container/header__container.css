@@ -11,3 +11,8 @@
     width: 45rem;
   }
 }
+@media screen and (min-width: 1280px) {
+  .header__container {
+    width: 61.5rem;
+  }
+}
