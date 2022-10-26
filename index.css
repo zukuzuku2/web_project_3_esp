@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter&display=swap");
+@import url(./blocks/page/page.css);
+@import url(./blocks/content/content.css);
+@import url(./vendor/normalize.css);
+@import url(./blocks/header/header.css);
+@import url(./blocks/header/__container/header__container.css);
+@import url(./blocks/header/__logo/header__logo.css);
+@import url(./blocks/header/__pic/header__pic);
+@import url(./blocks/header/__subtitle/header__subtitle.css);
+@import url(./blocks/header/__title/header__title.css);
+@import url(./blocks/intro/intro.css);
+@import url(./blocks/intro/__author-quote/intro__author-quote.css);
+@import url(./blocks/intro/__author-text/intro__author-text.css);
+@import url(./blocks/intro/__container/intro__container.css);
+@import url(./blocks/intro/__description/intro__description.css);
+@import url(./blocks/intro/__title/intro__title.css);
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
