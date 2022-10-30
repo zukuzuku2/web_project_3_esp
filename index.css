@@ -1,5 +1,5 @@
 @import url(./vendor/normalize.css);
-@import url("https://fonts.googleapis.com/css2?family=Inter&display=swap");
+@import url(./fonts/Inter/static/Inter-Regular.ttf);
 @import url(./blocks/page/page.css);
 @import url(./blocks/content/content.css);
 @import url(./blocks/header/header.css);
@@ -40,6 +40,7 @@
 @import url(./blocks/cover/__buy-items/cover__buy-items.css);
 @import url(./blocks/cover/__overlay/cover__overlay.css);
 @import url(./blocks/cover/__subtitle/cover__subtitle.css);
+@import url(./blocks/cover/__subtitle-container/cover____subtitle-container.css);
 @import url(./blocks/cover/__title/cover__title.css);
 @import url(./blocks/footer/footer.css);
 @import url(./blocks/footer/__copyright/footer__copyright.css);
