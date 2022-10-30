@@ -10,3 +10,13 @@
     align-self: flex-start;
   }
 }
+@media screen and (min-width: 1280px) {
+  .place__image {
+    /* width: 100px;
+    height: 100px; */
+    width: 460px;
+    height: 460px;
+    grid-area: image;
+    align-self: flex-start;
+  }
+}
