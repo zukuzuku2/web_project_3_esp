@@ -1,5 +1,5 @@
 @import url(./vendor/normalize.css);
-@import url(./fonts/Inter/static/Inter-Regular.ttf);
+@import url(./vendor/fonts/fonts.css);
 @import url(./blocks/page/page.css);
 @import url(./blocks/content/content.css);
 @import url(./blocks/header/header.css);
@@ -16,14 +16,6 @@
 @import url(./blocks/pictures/pictures.css);
 @import url(./blocks/pictures/__item/pictures__item.css);
 @import url(./blocks/pictures/__container/pictures__container.css);
-@import url(./blocks/pictures/__eighth-photo/pictures__eighth-photo.css);
-@import url(./blocks/pictures/__fifth-photo/pictures__fifth-photo.css);
-@import url(./blocks/pictures/__first-photo/pictures__first-photo.css);
-@import url(./blocks/pictures/__fourth-photo/pictures__fourth-photo.css);
-@import url(./blocks/pictures/__second-photo/pictures__second-photo.css);
-@import url(./blocks/pictures/__seventh-photo/pictures__seventh-photo.css);
-@import url(./blocks/pictures/__sixth-photo/pictures__sixth-photo.css);
-@import url(./blocks/pictures/__thirth-photo/pictures__thirth-photo.css);
 @import url(./blocks/places/places.css);
 @import url(./blocks/place/place.css);
 @import url(./blocks/place/__artist/place__artist.css);
