@@ -6,7 +6,7 @@ Este es un proyecto que muestra las ciudades natales de algunos de los empleados
 
 **Enlace al proyecto en GitHub Pages**
 
-- [De patria a patria](https://www.figma.com/file/ZW8wxTYTZH2czTTfDMVHWq/WEB%2C-Sprint-3-%3A-De-patria-a-patria-%7C-desktop-%2B-mobile?node-id=0%3A1)
+- [De patria a patria](https://zukuzuku2.github.io/web_project_3_esp/)
 
 ##Tecnologías utilizadas
 
